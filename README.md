@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/parvvsood/LeetCode-Questions/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/parvvsood/LeetCode-Questions/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/parvvsood/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
