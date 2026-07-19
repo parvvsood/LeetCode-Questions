@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/parvvsood/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/parvvsood/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/parvvsood/LeetCode-Questions/tree/master/0224-basic-calculator) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/parvvsood/LeetCode-Questions/tree/master/0002-add-two-numbers) |
+| [0224-basic-calculator](https://github.com/parvvsood/LeetCode-Questions/tree/master/0224-basic-calculator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,4 +25,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/parvvsood/LeetCode-Questions/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/parvvsood/LeetCode-Questions/tree/master/0224-basic-calculator) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/parvvsood/LeetCode-Questions/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
