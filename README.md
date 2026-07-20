@@ -30,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/parvvsood/LeetCode-Questions/tree/master/0224-basic-calculator) |
+## Array
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/parvvsood/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/parvvsood/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
