@@ -48,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/parvvsood/LeetCode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/parvvsood/LeetCode-Questions/tree/master/1695-maximum-erasure-value) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/parvvsood/LeetCode-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3477-fruits-into-baskets-ii](https://github.com/parvvsood/LeetCode-Questions/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/parvvsood/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/parvvsood/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/parvvsood/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [3477-fruits-into-baskets-ii](https://github.com/parvvsood/LeetCode-Questions/tree/master/3477-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -86,4 +88,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/parvvsood/LeetCode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/parvvsood/LeetCode-Questions/tree/master/3477-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/parvvsood/LeetCode-Questions/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/parvvsood/LeetCode-Questions/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
