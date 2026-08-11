@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/parvvsood/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/parvvsood/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/parvvsood/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/parvvsood/LeetCode-Questions/tree/master/0224-basic-calculator) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/parvvsood/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/parvvsood/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/parvvsood/LeetCode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Segment Tree
@@ -150,5 +152,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/parvvsood/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/parvvsood/LeetCode-Questions/tree/master/0046-permutations) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/parvvsood/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
