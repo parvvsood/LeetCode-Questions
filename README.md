@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/parvvsood/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/parvvsood/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/parvvsood/LeetCode-Questions/tree/master/0224-basic-calculator) |
+| [0290-word-pattern](https://github.com/parvvsood/LeetCode-Questions/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/parvvsood/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Stack
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/parvvsood/LeetCode-Questions/tree/master/0049-group-anagrams) |
+| [0290-word-pattern](https://github.com/parvvsood/LeetCode-Questions/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/parvvsood/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/parvvsood/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 | [1695-maximum-erasure-value](https://github.com/parvvsood/LeetCode-Questions/tree/master/1695-maximum-erasure-value) |
