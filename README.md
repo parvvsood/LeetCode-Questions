@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/parvvsood/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/parvvsood/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
+| [0460-lfu-cache](https://github.com/parvvsood/LeetCode-Questions/tree/master/0460-lfu-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/parvvsood/LeetCode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/parvvsood/LeetCode-Questions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/parvvsood/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/parvvsood/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0460-lfu-cache](https://github.com/parvvsood/LeetCode-Questions/tree/master/0460-lfu-cache) |
 | [0904-fruit-into-baskets](https://github.com/parvvsood/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 | [1695-maximum-erasure-value](https://github.com/parvvsood/LeetCode-Questions/tree/master/1695-maximum-erasure-value) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/parvvsood/LeetCode-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -171,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/parvvsood/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/parvvsood/LeetCode-Questions/tree/master/0460-lfu-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/parvvsood/LeetCode-Questions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
