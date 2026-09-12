@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/parvvsood/LeetCode-Questions/tree/master/1695-maximum-erasure-value) |
 | [2401-longest-nice-subarray](https://github.com/parvvsood/LeetCode-Questions/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/parvvsood/LeetCode-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2906-construct-product-matrix](https://github.com/parvvsood/LeetCode-Questions/tree/master/2906-construct-product-matrix) |
 | [3477-fruits-into-baskets-ii](https://github.com/parvvsood/LeetCode-Questions/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/parvvsood/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/parvvsood/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [2906-construct-product-matrix](https://github.com/parvvsood/LeetCode-Questions/tree/master/2906-construct-product-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/parvvsood/LeetCode-Questions/tree/master/0460-lfu-cache) |
+## Matrix
+|  |
+| ------- |
+| [2906-construct-product-matrix](https://github.com/parvvsood/LeetCode-Questions/tree/master/2906-construct-product-matrix) |
 <!---LeetCode Topics End-->
