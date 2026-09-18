@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/parvvsood/LeetCode-Questions/tree/master/0224-basic-calculator) |
+| [1441-build-an-array-with-stack-operations](https://github.com/parvvsood/LeetCode-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Array
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/parvvsood/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/parvvsood/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/parvvsood/LeetCode-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1441-build-an-array-with-stack-operations](https://github.com/parvvsood/LeetCode-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/parvvsood/LeetCode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/parvvsood/LeetCode-Questions/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/parvvsood/LeetCode-Questions/tree/master/1695-maximum-erasure-value) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/parvvsood/LeetCode-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [3477-fruits-into-baskets-ii](https://github.com/parvvsood/LeetCode-Questions/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
