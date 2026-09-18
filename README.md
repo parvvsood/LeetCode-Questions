@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-longest-nice-subarray](https://github.com/parvvsood/LeetCode-Questions/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/parvvsood/LeetCode-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2906-construct-product-matrix](https://github.com/parvvsood/LeetCode-Questions/tree/master/2906-construct-product-matrix) |
+| [3379-transformed-array](https://github.com/parvvsood/LeetCode-Questions/tree/master/3379-transformed-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/parvvsood/LeetCode-Questions/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/parvvsood/LeetCode-Questions/tree/master/1441-build-an-array-with-stack-operations) |
+| [3379-transformed-array](https://github.com/parvvsood/LeetCode-Questions/tree/master/3379-transformed-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/parvvsood/LeetCode-Questions/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
