@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/parvvsood/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/parvvsood/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/parvvsood/LeetCode-Questions/tree/master/0509-fibonacci-number) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/parvvsood/LeetCode-Questions/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [3870-count-commas-in-range](https://github.com/parvvsood/LeetCode-Questions/tree/master/3870-count-commas-in-range) |
 ## Two Pointers
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/parvvsood/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/parvvsood/LeetCode-Questions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/parvvsood/LeetCode-Questions/tree/master/0046-permutations) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/parvvsood/LeetCode-Questions/tree/master/2178-maximum-split-of-positive-even-integers) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2906-construct-product-matrix](https://github.com/parvvsood/LeetCode-Questions/tree/master/2906-construct-product-matrix) |
+## Greedy
+|  |
+| ------- |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/parvvsood/LeetCode-Questions/tree/master/2178-maximum-split-of-positive-even-integers) |
 <!---LeetCode Topics End-->
