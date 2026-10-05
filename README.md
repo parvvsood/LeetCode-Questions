@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/parvvsood/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/parvvsood/LeetCode-Questions/tree/master/0227-basic-calculator-ii) |
+| [0503-next-greater-element-ii](https://github.com/parvvsood/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/parvvsood/LeetCode-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Array
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/parvvsood/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/parvvsood/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/parvvsood/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0503-next-greater-element-ii](https://github.com/parvvsood/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/parvvsood/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/parvvsood/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/parvvsood/LeetCode-Questions/tree/master/0912-sort-an-array) |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/parvvsood/LeetCode-Questions/tree/master/2178-maximum-split-of-positive-even-integers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/parvvsood/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
