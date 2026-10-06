@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/parvvsood/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/parvvsood/LeetCode-Questions/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/parvvsood/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/parvvsood/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/parvvsood/LeetCode-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Array
@@ -189,10 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/parvvsood/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/parvvsood/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/parvvsood/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0460-lfu-cache](https://github.com/parvvsood/LeetCode-Questions/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
