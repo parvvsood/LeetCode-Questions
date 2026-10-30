@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/parvvsood/LeetCode-Questions/tree/master/2906-construct-product-matrix) |
 | [3379-transformed-array](https://github.com/parvvsood/LeetCode-Questions/tree/master/3379-transformed-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/parvvsood/LeetCode-Questions/tree/master/3477-fruits-into-baskets-ii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/parvvsood/LeetCode-Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2906-construct-product-matrix](https://github.com/parvvsood/LeetCode-Questions/tree/master/2906-construct-product-matrix) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/parvvsood/LeetCode-Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Greedy
 |  |
 | ------- |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/parvvsood/LeetCode-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parvvsood/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/parvvsood/LeetCode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/parvvsood/LeetCode-Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
