@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/parvvsood/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/parvvsood/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/parvvsood/LeetCode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/parvvsood/LeetCode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Segment Tree
 |  |
 | ------- |
@@ -240,5 +241,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/parvvsood/LeetCode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/parvvsood/LeetCode-Questions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Topological Sort
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/parvvsood/LeetCode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/parvvsood/LeetCode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/parvvsood/LeetCode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
